@@ -1,5 +1,5 @@
 # fuzzy-palm-tree
-Python Front End Basics
+Python Front End Basics - with list
 
 Exercises from Udemy Course: 
 100 Days of Code - The Complete Python Pro Bootcamp for 2021 by Dr. Angela Yu
