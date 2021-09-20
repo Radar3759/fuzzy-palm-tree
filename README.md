@@ -8,3 +8,4 @@ Exercises from Udemy Course:
 2. If Elif with BMI calculator
 3. Leap Year?
 4. Heads or Tails Randomizer
+5. Who Pays for Dinne?
