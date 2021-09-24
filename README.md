@@ -11,3 +11,4 @@ Exercises from Udemy Course:
 5. Who Pays for Dinne?
 6. Simple game board
 7. Average Height
+8. Biggest Number
