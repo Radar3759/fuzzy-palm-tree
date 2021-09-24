@@ -9,3 +9,5 @@ Exercises from Udemy Course:
 3. Leap Year?
 4. Heads or Tails Randomizer
 5. Who Pays for Dinne?
+6. Simple game board
+7. Average Height
