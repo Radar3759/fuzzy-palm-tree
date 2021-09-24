@@ -12,3 +12,4 @@ Exercises from Udemy Course:
 6. Simple game board
 7. Average Height
 8. Biggest Number
+9. Add only even numbers
