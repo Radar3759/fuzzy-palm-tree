@@ -6,6 +6,6 @@ for number in range (1, 101):
   elif number % 5 == 0:  
     print("Buzz")
   elif number % 3 == 0 and number % 5 == 0:
-    print("Fizz Buzz")
+    print("FizzBuzz")
   else:
     print(number) 
