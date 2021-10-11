@@ -13,3 +13,4 @@ Exercises from Udemy Course:
 7. Average Height
 8. Biggest Number
 9. Add only even numbers
+10. Paint Calculator
