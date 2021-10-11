@@ -14,3 +14,4 @@ Exercises from Udemy Course:
 8. Biggest Number
 9. Add only even numbers
 10. Paint Calculator
+11. Prime num?
