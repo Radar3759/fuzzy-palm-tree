@@ -15,3 +15,4 @@ Exercises from Udemy Course:
 9. Add only even numbers
 10. Paint Calculator
 11. Prime num?
+12. Travel Log
