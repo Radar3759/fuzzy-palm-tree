@@ -16,3 +16,4 @@ Exercises from Udemy Course:
 10. Paint Calculator
 11. Prime num?
 12. Travel Log
+13. Title Case
